@@ -1,0 +1,25 @@
+locus_id,gene_name,condition_state,degree_in_plot,user_group
+Rv0667,rpoB,Common active,17,Transcription
+Rv0005,gyrB,Common active,17,DNA_Replication
+Rv0006,gyrA,Common active,15,DNA_Replication
+Rv2737c,recA,Common active,13,DNA_Repair
+Rv0668,rpoC,Common active,12,Transcription
+Rv0685,tuf,Common active,11,Connector
+Rv2150c,ftsZ,Common active,10,Cell_Division
+Rv3457c,rpoA,Common active,10,Connector
+Rv3846,sodA,Common active,9,Oxidative_Defense
+Rv0682,rpsL,Common active,9,Connector
+Rv0440,groEL2,Common active,8,Connector
+Rv1908c,katG,Common active,8,Oxidative_Defense
+Rv1821,secA2,Common active,7,Connector
+Rv0001,dnaA,Common active,7,DNA_Replication
+Rv0350,dnaK,Common active,6,Chaperone
+Rv1484,inhA,Log-specific,6,Lipid_Metabolism
+Rv0003,recF,Log-specific,5,DNA_Repair
+Rv0002,dnaN,Common active,5,DNA_Replication
+Rv0014c,pknB,Log-specific,4,Signal_Transduction
+Rv3223c,sigH,Common active,4,Stress_Response
+Rv0015c,pknA,Common active,3,Signal_Transduction
+Rv0017c,rodA,Log-specific,3,Cell_Division
+Rv2703,sigA,Common active,3,Transcription
+Rv3418c,groES,Common active,2,Chaperone
